@@ -1,8 +1,5 @@
-Astitva Asthana and Anjali Tanna HW06.
 Created 6/11/21.
 Last updated 6/19/21.
-
-********From HW05:
 
 colorTransformation package:
 
@@ -53,8 +50,6 @@ The rest of the filters and transformations were only applied once to each image
 
 
 For the images we used as examples, we own both the images and are authorizing the usage of them for this project.
-
-*********HW06
 
 Changes introduced in HW06 editing code from HW05:
 
